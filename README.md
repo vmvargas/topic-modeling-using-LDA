@@ -9,9 +9,9 @@ The dataset was obtained from Yelp’s website.
 
 ## Script Steps
 1. Prepare the data:
-⋅⋅⋅1.1. Tokenizing
-⋅⋅1.2. Stopping
-⋅⋅1.3. Stemming
+⋅⋅* Tokenizing
+⋅⋅* Stopping
+⋅⋅* Stemming
 2. Construct a Document-term Matrix
 3. Apply the LDA Model
 4. Examine the results
